@@ -3,8 +3,7 @@
 # -- Project information
 
 project = 'RAMN'
-copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'VT ECE 4805/6 - F25-04'
 
 release = '0.1'
 version = '0.1.0'
