@@ -6,10 +6,12 @@ that creates recipes mixing random ingredients.
 It pulls data from the `RAMN github <https://github.com/JonasvonStein/F25-04-Drive-Secure-Teaching-Automotive-Cybersecurity-with-RAMN/tree/main>`_
 and offers a *simple* and *intuitive* API.
 
-Check out the :doc: `usage` section for further information, including
+Check out the :doc:`usage` section for for further information, including
 how to :ref:`installation` the project. 
 
-:doc: `asd`
+Check out the :doc:`asd` section for
+
+:ref:`asd`
 
 .. note::
 
