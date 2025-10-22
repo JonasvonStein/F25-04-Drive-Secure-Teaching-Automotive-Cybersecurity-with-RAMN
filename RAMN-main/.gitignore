@@ -1,0 +1,28 @@
+docs/_build
+docs/_static
+docs/_templates
+hardware/V1revC_kiCAD7/0_ramn/~ramn.kicad_pcb.lck
+hardware/V1revC_kiCAD7/0_ramn/~ramn.kicad_sch.lck
+firmware/RAMNV1/Debug
+firmware/RAMNV1/.settings
+firmware/RAMNV1/RAMNV1 Debug.launch
+firmware/RAMNV1/RAMNV1 Debug.cfg
+hardware/V1revC_kiCAD7/0_ramn/ramn-backups
+.metadata
+firmware/RAMNV1_CTF/.settings/language.settings.xml
+firmware/RAMNV1/.cproject
+firmware/RAMNV1/.mxproject
+/firmware/RAMNV1/Release
+/scripts/utils/__pycache__
+/docs/.idea
+/hardware/V1_revC/0_ramn/ramn-backups
+hardware/V1_revC/0_ramn/fp-info-cache
+/scripts/carla/__pycache__
+/scripts/carla/agents/__pycache__
+/scripts/carla/agents/navigation/__pycache__
+/scripts/carla/agents/tools/__pycache__
+/scripts/diagnostics/DUMP
+/hardware/V1_revB/0_ramn/ramn-backups
+firmware/RAMNV1/Core/Inc/ramn_screen_template.h
+firmware/RAMNV1/Core/Src/ramn_screen_template.c
+firmware/RAMNV1/RAMNV1 Debug.launch
