@@ -1,17 +1,14 @@
 Welcome to F25-04 RAMN's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `RAMN github <https://github.com/JonasvonStein/F25-04-Drive-Secure-Teaching-Automotive-Cybersecurity-with-RAMN/tree/main>`_
-and offers a *simple* and *intuitive* API.
+Hello, We are an ECE senior design team tasked by our customer to develop a cybersecrity challenge using the RAMN board.
+Below are import links that we be useful to used.
 
-Check out the :doc:`usage` section for for further information, including
-how to :ref:`installation` the project. 
+`Our Github <https://github.com/JonasvonStein/F25-04-Drive-Secure-Teaching-Automotive-Cybersecurity-with-RAMN/tree/main>`_
 
-Check out the :doc:`asd` section for
+`RAMN Github <https://github.com/ToyotaInfoTech/RAMN>`
 
-:ref:`asd`
+`RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`
 
 .. note::
 
