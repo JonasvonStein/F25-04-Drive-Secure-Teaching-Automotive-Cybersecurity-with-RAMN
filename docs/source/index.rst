@@ -1,6 +1,8 @@
 Welcome to F25-04 RAMN's documentation!
 ===================================
 
+.. image:: Images/VTTI_horizontal_logo_1
+
 Hello, We are an ECE senior design team tasked by our customer to develop a cybersecrity challenge using the RAMN board.
 Below are import links that will be useful.
 
