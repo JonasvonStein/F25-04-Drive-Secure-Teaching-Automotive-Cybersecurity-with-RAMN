@@ -13,7 +13,9 @@ Below are import links that will be useful.
 
 `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
 
-asadsa
+
+For an in-depth explanation, please see :download:`A Detailed Example <Expo_Slides_F25-04.pdf>`.
+
 
 .. note::
 
