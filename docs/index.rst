@@ -17,6 +17,10 @@ Below are import links that will be useful.
 For an in-depth explanation, please see :download:`A Detailed Example <Expo_Slides_F25-04.pdf>`.
 
 
+.. image:: Expo_Slides_F25-04.pdf
+   :align: center
+
+
 .. note::
 
    This project is under active development.
