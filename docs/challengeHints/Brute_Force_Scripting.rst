@@ -1,6 +1,6 @@
-.. _Brute_Force_Scripting_Solution:
+.. _Brute_Force_Scripting_Hints:
 
-Brute Force Scripting Challenge Solution
-========================================
+Brute Force Scripting Challenge Hints
+=====================================
 
-This page contains the brute force scripting challenge solution.
+This page contains the brute force scripting challenge hints.

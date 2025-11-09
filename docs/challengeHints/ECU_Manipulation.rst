@@ -1,9 +1,9 @@
-.. _ECU_Manipulation_Solution:
+.. _ECU_Manipulation_Hints:
 
-ECU Manipulation Challenge Solution
+ECU Manipulation Challenge Hints
 ===================================
 
-This page contains the ECU manipulation challenge solution.
+This page contains the ECU manipulation challenge hints.
 
 
 
