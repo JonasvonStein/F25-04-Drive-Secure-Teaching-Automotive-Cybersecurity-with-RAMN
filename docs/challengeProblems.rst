@@ -3,7 +3,7 @@
 Cyber Secrity Challenges
 ========================
 
-This section details the Cyber Secrity Challenges.
+This section details the cyber secrity challenges.
 
 .. toctree::
    :maxdepth: 3
