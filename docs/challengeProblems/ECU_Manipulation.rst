@@ -3,7 +3,7 @@
 ECU Manipulation Challenge
 ==========================
 
-This page contains the ECU manipulation Challenge.
+This page contains the ECU manipulation challenge.
 
 
 

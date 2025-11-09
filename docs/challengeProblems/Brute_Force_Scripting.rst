@@ -3,4 +3,4 @@
 Brute Force Scripting Challenge
 ==============================
 
-This page contains the brute force scripting Challenge.
+This page contains the brute force scripting challenge.

@@ -3,6 +3,6 @@
 Capture The Flag Challenge
 ==========================
 
-This page contains the capture the flag Challenge.
+This page contains the capture the flag challenge.
 
 
