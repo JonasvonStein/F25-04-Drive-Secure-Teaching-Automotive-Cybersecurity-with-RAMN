@@ -5,8 +5,9 @@ Intro
 
 Purpose and Who We Are
 ----------------------
+
 Our customer, the Virginia Tech Transportation Institute, wants to utilize the Resistant Automotive Miniature Network (RAMN) to help develop
- cybersecurity practices and facilitate a learning environment for future cybersecurity and automotive engineering students.
+cybersecurity practices and facilitate a learning environment for future cybersecurity and automotive engineering students.
 The RAMN serves as an educational tool to highlight the vulnerabilities of automotive Electronic Control Units (ECUs).
 This document provides a background on the RAMN board, an extensive overview of how to set up the required environment to interact with the board, and several cybersecurity challenges.  
 
@@ -22,3 +23,15 @@ What is on this webpage?
 
 This webpage will show you what on the `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
 is important for the cybersecrity challenges we made and provide extra details on things like how to use the RAMN.
+
+
+Getting Started with the Cyber Secrity Challenges
+-----------------------
+We have made three challenges. To know what you need to install go to the :doc:`softwareInstallation` section. The challenges are beginer friendly and you can go to the :doc:`challengeHints` section for extra help.
+
+.. toctree::
+   :maxdepth: 3
+
+   challengeProblems/Brute_Force_Scipting
+   challengeProblems/Capture_The_Flag
+   challengeProblems/ECU_Manipulation
