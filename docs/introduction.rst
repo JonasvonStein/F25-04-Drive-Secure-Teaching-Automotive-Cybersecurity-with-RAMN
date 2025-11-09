@@ -32,6 +32,6 @@ We have made three challenges. To know what you need to install go to the :doc:`
 .. toctree::
    :maxdepth: 3
 
-   challengeProblems/Brute_Force_Scipting
+   challengeProblems/Brute_Force_Scripting
    challengeProblems/Capture_The_Flag
    challengeProblems/ECU_Manipulation

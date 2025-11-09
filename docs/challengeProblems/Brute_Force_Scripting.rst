@@ -1,8 +1,6 @@
-.. _Brute_Force_Scipting:
+.. _Brute_Force_Scripting:
 
-Brute Force Scipting Challenge
+Brute Force Scripting Challenge
 ==============================
 
-This page contains the brute force scipting Challenge.
-
-
+This page contains the brute force scripting Challenge.

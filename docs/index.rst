@@ -14,10 +14,10 @@ Below are import links that will be useful.
 `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
 
 
-See our final :download:`slides <img/Expo_Slides_F25-04.pdf>`.
-See our poster :download:`poster <Expo_Slides_F25-04.pdf>`.
+See our final :download:`slides <img/Expo_Slides.pdf>`.
+See our poster :download:`poster <img/Expo_Poster.pdf>`.
 
-Here is a pdf version of the :download:`documentation <Expo_Slides_F25-04.pdf>`.
+Here is a pdf version of the :download:`documentation <Documentation.pdf>`.
 
 
 .. note::
