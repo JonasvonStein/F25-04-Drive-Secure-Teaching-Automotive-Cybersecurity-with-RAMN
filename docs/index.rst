@@ -17,7 +17,7 @@ Below are import links that will be useful.
 See our final :download:`slides <img/Expo_Slides.pdf>`.
 See our poster :download:`poster <img/Expo_Poster.pdf>`.
 
-Here is a pdf version of the :download:`documentation <Documentation.pdf>`.
+Here is a pdf version of the :download:`documentation <img/Documentation.pdf>`.
 
 
 .. note::
