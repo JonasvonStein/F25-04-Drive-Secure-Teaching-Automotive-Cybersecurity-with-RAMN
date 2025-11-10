@@ -6,7 +6,7 @@ Brute Force Scripting Challenge
 This page contains the brute force scripting challenge.
 
 Learning Objectives
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 The learning objectives for this challenge are to:
 - Be able to connect with the RAMN over USB
@@ -14,7 +14,8 @@ The learning objectives for this challenge are to:
 
 
 Overview of Challenge
----------------------
+^^^^^^^^^^^^^^^^^^^^^
+
 The purpose of brute forcing is to test many password combinations at a very high speed.
 Brute forcing is effective against weak passwords or poorly secured systems.
 Brute forcing allows hackers to gain unauthorized access to systems or data.
@@ -24,7 +25,8 @@ rapidly testing rolling codes used by keyless entry systems.
 We will be using this technique to find a flag in the RAMN by testing every password combination possible. 
 
 Challenge
----------
+^^^^^^^^^
+
 USB Challenge: A flag is accessible by sending the command “&” and a five-digit numerical password (e.g., “&12345”).
 
 What's needed to make and run the script:
