@@ -3,11 +3,6 @@
 Brute Force Scripting Challenge Solution
 ========================================
 
-This page contains the brute force scripting challenge solution.
-
-Solution
-^^^^^^^^
-
 Password: “&27762”
 
 Flag: Flag{USB_BRUTEFORCE}

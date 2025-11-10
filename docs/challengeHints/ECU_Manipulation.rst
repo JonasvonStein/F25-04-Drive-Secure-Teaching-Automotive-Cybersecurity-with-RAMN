@@ -3,8 +3,6 @@
 ECU Manipulation Challenge Hints
 ===================================
 
-This page contains the ECU manipulation challenge hints.
-
 Getting Started
 ^^^^^^^^^^^^^^^
 
