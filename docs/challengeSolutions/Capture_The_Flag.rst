@@ -14,6 +14,7 @@ Flag: Flag{lets_go_hokies}
 
 .. image:: /img/Capture_The_Flag_Solution.png
    :align: center
+   :scale: 150%
 
 
 
