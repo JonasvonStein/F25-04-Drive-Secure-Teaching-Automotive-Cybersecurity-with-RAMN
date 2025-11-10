@@ -3,9 +3,6 @@
 ECU Manipulation Challenge
 ==========================
 
-This page contains the ECU manipulation challenge.
-
-
 Learning Objectives
 ^^^^^^^^^^^^^^^^^^^
 

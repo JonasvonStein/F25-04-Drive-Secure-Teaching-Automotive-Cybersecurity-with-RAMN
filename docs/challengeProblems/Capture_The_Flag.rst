@@ -3,8 +3,6 @@
 Capture The Flag Challenge
 ==========================
 
-This page contains the capture the flag challenge.
-
 Learning Objectives
 ^^^^^^^^^^^^^^^^^^^
 
