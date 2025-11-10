@@ -9,4 +9,5 @@ Solution
 ^^^^^^^^
 
 Password: “&27762”
+
 Flag: Flag{USB_BRUTEFORCE}
