@@ -48,4 +48,4 @@ Challenge
     - Utilize packet crafting and spoofing to hack a simulated automobile on CARLA.
         - Environment: RAMN System, RAMN Repository, Ubuntu 22.04 Linux local machine with can-utils, pygame, numpy, Python (3.7 recommended), CARLA 0.9.12
 
-
+*Tutorials are in the hints section if needed and are strongly suggested*
