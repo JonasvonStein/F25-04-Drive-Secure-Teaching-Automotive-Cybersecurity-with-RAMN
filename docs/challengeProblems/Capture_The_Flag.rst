@@ -9,6 +9,7 @@ Learning Objectives
 ^^^^^^^^^^^^^^^^^^^
 
 The learning objectives for this challenge are to:
+
 - Understand UDS / ISO-TP diagnostics
 - Use can-utils to query an ECU
 - Inspect firmware to find embedded data

@@ -12,7 +12,6 @@ The learning objectives for this challenge are to:
 - Be able to connect with the RAMN over USB
 - Learn how to write a Python script
 
-
 Overview of Challenge
 ^^^^^^^^^^^^^^^^^^^^^
 
