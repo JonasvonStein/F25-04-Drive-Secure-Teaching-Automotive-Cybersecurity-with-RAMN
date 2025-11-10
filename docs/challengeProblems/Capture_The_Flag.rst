@@ -17,8 +17,8 @@ Overview of Challenge
 
 
 
-Challenge
-^^^^^^^^^
+Challenge Part 1
+^^^^^^^^^^^^^^^^
 
 Retrieve the hidden message embedded in the ECU firmware and submit the flag. The format of the flag is: “RAMN FLAG {'flag'} 
 Attached below is a list of UDS SID service requests and responses. Also included is a list of data identifiers.
@@ -26,5 +26,12 @@ Use a linux terminal to retrieve the flag. **See the “Installing Linux”, “
 sections to get started with the project. Do not disable any of the ECU's**
 
 Hint: The spare part DID (Data Identifier) is 0xF187
+
+
+Challenge Part 2
+^^^^^^^^^^^^^^^^
+
+
+
 
 

@@ -37,4 +37,15 @@ wireless interaction.
 Challenge
 ^^^^^^^^^
 
+- Beginner:
+    - Utilize UDS commands to disable an ECU.
+    - Spoof values for a physical component on the ECU you disabled.
+        - Environment: RAMN System, RAMN Repository, Linux VM or local machine with can-utils installed.
+- Intermediate:
+    - Write a python script to craft CAN Frame packets to spoof values for a physical input on the RAMN system.
+        - Environment: RAMN System, RAMN Repository, Linux VM or local machine with can-utils installed, Python (3.7 recommended)
+- Advanced:
+    - Utilize packet crafting and spoofing to hack a simulated automobile on CARLA.
+        - Environment: RAMN System, RAMN Repository, Ubuntu 22.04 Linux local machine with can-utils, pygame, numpy, Python (3.7 recommended), CARLA 0.9.12
+
 
