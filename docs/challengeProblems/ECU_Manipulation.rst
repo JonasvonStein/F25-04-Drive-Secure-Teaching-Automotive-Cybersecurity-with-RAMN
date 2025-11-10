@@ -14,7 +14,6 @@ The learning objectives for this challenge are to:
 - Be able to connect with the RAMN over USB
 - Learn how to write a Python script
 
-
 Overview of Challenge
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -44,6 +43,7 @@ Challenge
 USB Challenge: A flag is accessible by sending the command “&” and a five-digit numerical password (e.g., “&12345”).
 
 What's needed to make and run the script:
+
 - Python file
 - Command prompt
 

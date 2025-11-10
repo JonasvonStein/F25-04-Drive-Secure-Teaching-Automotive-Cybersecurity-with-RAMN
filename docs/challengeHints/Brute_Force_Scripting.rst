@@ -27,3 +27,4 @@ How the Brute Force Flag should be found:
 - Use Teraterm to know what COM port and baud rate to look at
 - Create a script that will brute force through every password at the correct COM port and baud rate to see if something else is returned instead of “Wrong password.”
 - Run the script in the command prompt to find the password and input it into TeraTerm if needed to find the flag.
+
