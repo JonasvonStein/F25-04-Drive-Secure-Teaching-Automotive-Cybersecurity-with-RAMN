@@ -29,9 +29,4 @@ Getting Started with the Cyber Secrity Challenges
 -----------------------
 We have made three challenges. To know what you need to install go to the :doc:`softwareInstallation` section. The challenges are beginer friendly and you can go to the :doc:`challengeHints` section for extra help.
 
-.. toctree::
-   :maxdepth: 3
-
-   challengeProblems/Brute_Force_Scripting
-   challengeProblems/Capture_The_Flag
-   challengeProblems/ECU_Manipulation
+:doc:`Brute_Force_Scripting`

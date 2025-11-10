@@ -8,7 +8,7 @@ This page contains the brute force scripting challenge.
 Learning Objectives
 -------------------
 
-The learning objectives for this challenge are to
+The learning objectives for this challenge are to:
 - Be able to connect with the RAMN over USB
 - Learn how to write a Python script
 
