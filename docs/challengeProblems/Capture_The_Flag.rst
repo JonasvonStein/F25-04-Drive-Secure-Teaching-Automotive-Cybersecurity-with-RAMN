@@ -27,7 +27,6 @@ Attached below is a list of UDS SID service requests and responses. Also include
 Use a linux terminal to retrieve the flag. **See the “Installing Linux”, “UDS Background Information”, and “Viewing CAN”
 sections to get started with the project. Do not disable any of the ECU's**
 
-Hint: 
 Hint: The spare part DID (Data Identifier) is 0xF187
 
 
