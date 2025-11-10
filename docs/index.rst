@@ -4,7 +4,7 @@ Welcome to F25-04 RAMN's documentation!
 .. image:: img/VTTI_horizontal_logo_1.png
    :align: center
 
-Hello, We are an ECE senior design team tasked by our customer to develop cybersecrity challenges using the RAMN board.
+Hello, We are an ECE senior design team tasked by VTTI, Virginia Tech Transportation Institute, to develop cybersecrity challenges using the RAMN board.
 Below are import links that will be useful.
 
 `Our Github <https://github.com/JonasvonStein/F25-04-Drive-Secure-Teaching-Automotive-Cybersecurity-with-RAMN/tree/main>`_
