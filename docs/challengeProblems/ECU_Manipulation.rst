@@ -11,8 +11,8 @@ Learning Objectives
 
 The learning objectives for this challenge are to:
 
-- Be able to connect with the RAMN over USB
-- Learn how to write a Python script
+- asd
+- asd
 
 Overview of Challenge
 ^^^^^^^^^^^^^^^^^^^^^
@@ -40,16 +40,4 @@ wireless interaction.
 Challenge
 ^^^^^^^^^
 
-USB Challenge: A flag is accessible by sending the command “&” and a five-digit numerical password (e.g., “&12345”).
-
-What's needed to make and run the script:
-
-- Python file
-- Command prompt
-
-This challenge will need to be solved by using a brute force script because the only information given is how the password
-is formatted, so the only way to find the flag is by going through all the possible passwords. To make a brute force script,
-you will need to do it in some kind of Python application (we used Notepad).  You will also need to have the RAMN connected
-to your device. Another thing that is important in creating the script is trying to type in a password in TeraTerm to see
-what the RAMN outputs and using that to help in making your code.
 
