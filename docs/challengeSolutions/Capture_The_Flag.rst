@@ -12,7 +12,7 @@ Address: 0x08019C40
 
 Flag: Flag{lets_go_hokies}
 
-.. image:: /docs/img/Capture_The_Flag_Solution.png
+.. image:: /img/Capture_The_Flag_Solution.png
    :align: center
 
 
