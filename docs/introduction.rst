@@ -19,13 +19,13 @@ Check out the oficial `What is RAMN? <https://ramn.readthedocs.io/en/latest/gene
 
 
 What is on this webpage?
------------------------------
+------------------------
 
 This webpage will show you what on the `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
-is important for the cybersecrity challenges we made and provide extra details on things like how to use the RAMN.
+is important for the cyber security challenges we made and provide extra details on things like how to use the RAMN.
 
 
-Getting Started with the Cyber Secrity Challenges
+Getting Started with the Cyber Security Challenges
 -----------------------
 We have made three challenges. To know what you need to install go to the :doc:`softwareInstallation` section. The challenges are beginer friendly and you can go to the :doc:`challengeHints` section for extra help.
 

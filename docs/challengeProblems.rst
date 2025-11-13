@@ -1,9 +1,9 @@
 .. _challengeProblems:
 
-Cyber Secrity Challenges
+Cyber Security Challenges
 ========================
 
-This section details the cyber secrity challenges.
+This section details the cyber security challenges.
 
 .. toctree::
    :maxdepth: 3

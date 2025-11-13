@@ -1,9 +1,9 @@
 .. _How_to_Use:
 
-How to use Harware/Software
+How to use Hardware/Software
 ===========================
 
-This section details how to use the Harware/Software for the challenges.
+This section details how to use the Hardware/Software for the challenges.
 
 .. toctree::
    :maxdepth: 3
