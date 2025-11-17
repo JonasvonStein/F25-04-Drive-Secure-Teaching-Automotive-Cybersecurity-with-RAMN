@@ -8,4 +8,6 @@ This section details how to use the Hardware/Software for the challenges.
 .. toctree::
    :maxdepth: 3
 
+  howToUse/RAMN
   howToUse/TeraTerm
+  howToUse/CARLA
