@@ -13,6 +13,7 @@ REQUIREMENTS:
 - Linux VM or Local machine with can-utils
 
 First, we will start by attaching all of the expansion pods to the RAMN main board, and plugging the system into our laptop.  Once that is complete, you will want to find what the kernel recognizes the RAMN board as:
+
 Use this command to find the name of the RAMN on your machine
 
 .. code-block:: console
@@ -64,8 +65,8 @@ be listening for commands:
 
     $ echo "3E 00" | isotpsend -s 7e1 -d 7e9 can0
 
-In-Depth Hints:
-^^^^^^^^^^^^^^^
+Tutorial (Intermediate)
+^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Step by Step
