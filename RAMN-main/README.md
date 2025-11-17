@@ -42,7 +42,7 @@ Contains firmware source code for RAMN's ECUs.
 Please check the LICENSE.md file for more details.
 
 ## Contact
-Feel free to [contact us](mailto:camille.gay@toyota.global) if you have questions.
+Feel free to [contact RAMN creator at Toyota](mailto:camille.gay@toyota.global) if you have questions.
 Videos available [here](https://twitter.com/ramn_auto).
 
 Copyright (c) 2025 TOYOTA MOTOR CORPORATION. ALL RIGHTS RESERVED.
