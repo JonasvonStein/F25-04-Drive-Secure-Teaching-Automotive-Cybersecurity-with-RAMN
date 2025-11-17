@@ -11,5 +11,5 @@ This section details how do download the necessary software.
   softwareInsallation/flashingRAMN
   softwareInsallation/TeraTerm
   softwareInsallation/CARLA
-  softwareInsallation/linux
+  softwareInsallation/Linux
 
