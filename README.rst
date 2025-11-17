@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+F25-04: Drive Secure Teaching Automotive Cybersecurity with RAMN
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub lays out the fundamentals for automotive cybersecurity utilizing RAMN.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Visit our Website here:
+
+https://f25-04-drive-secure-teaching-automotive-cybersecurity-with-ramn.readthedocs.io/en/latest/index.html
