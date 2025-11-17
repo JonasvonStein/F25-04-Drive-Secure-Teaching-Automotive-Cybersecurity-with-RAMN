@@ -47,4 +47,8 @@ When an ELA is read, the ELA address stored in the data field is saved and is ap
 
 The ELA used in this project is 020000040801F1. 
 
+## Challenge: 
+Somewhere in the flash is a printable flag with the format FLAG{...}. Use the ST-Link debugger, the debug board, and STM32Cube Programmer to identify the memory location of the flag. The flag is stored on ECU B in the ECU’s .hex file. Find the flag on the .hex file and submit the flash address where the flag begins. Submit the flag in the format 0x0801XXXX. 
+
+
 
