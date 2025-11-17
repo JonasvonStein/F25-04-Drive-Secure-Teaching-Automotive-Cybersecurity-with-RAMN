@@ -100,6 +100,7 @@ As you try these different commands, observe your RAMN LCD screen pod and the va
     - $ echo "31 02 02 00" | isotpsend -s 7e1 -d 7e9 can0
 
 You can go back to the beginning of this tutorial and only utilize the command:
+
 .. code-block:: console
 
     $ candump can0
@@ -109,7 +110,7 @@ You can choose any physical control and attempt to spoof it using the above meth
 values for the commands, such as the sending and receiving ports of the RAMN depending on which ECU your physical
 control operates from. Utilize this table to edit your commands:
 
-.. image:: /img/Capture_The_Flag_ECU_UDS.png
+.. image:: /img/ECU_Manipulation_ECU_UDS.png
    :align: center
    :scale: 100%
 
@@ -121,6 +122,7 @@ Tutorial (Advanced, show output using CARLA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 REQUIREMENTS:
+
 - Ubuntu 22.04 (local boot)
 - Can-utils, pygame, numpy
 - RAMN repository
@@ -142,6 +144,8 @@ Once you have Ubuntu running, you will need to clone the RAMN repository as well
 
 Inside of the RAMN/scripts/utils we will find RAMN_Utils.py which we will need to modify lines 48 and 49.
 
-
+.. image:: /img/ECU_Manipulation_Utils.png
+   :align: center
+   :scale: 100%
 
 
