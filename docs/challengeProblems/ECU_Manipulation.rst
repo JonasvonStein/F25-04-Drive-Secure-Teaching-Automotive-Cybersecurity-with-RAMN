@@ -8,8 +8,9 @@ Learning Objectives
 
 The learning objectives for this challenge are to:
 
-- asd
-- asd
+- Understand the vulnerabilities of an automotive ECU
+- Utilize command line tools to exploit vulnerabilities
+- Packet Crafting (CAN Frame crafting)
 
 Overview of Challenge
 ^^^^^^^^^^^^^^^^^^^^^
