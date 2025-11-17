@@ -35,7 +35,7 @@ Where:
 - 0000 is the address field (always 0000 for an ELA record)
 - 04 is the record type 
 - FFFF is the upper 16 bits of the address
-- FC is the checksum of the record <br>
+- FC is the checksum of the record <br />
 An Intel HEX data record is formatted like:
 : LL AAAA TT [Data…] CC, where
 - LL indicates the byte count
