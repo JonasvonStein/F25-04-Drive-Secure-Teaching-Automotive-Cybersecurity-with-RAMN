@@ -19,3 +19,4 @@ When an attacker (you in this case) wants to utilize a specific service, the UDS
 This is most easily done on a Linux system, you may use a virtual or local machine with can-utils installed. We will be using the commands from section 2.0, specifically sending UDS commands to retrieve the flag. 
 
 ![alt text](https://www.csselectronics.com/cdn/shop/files/Unified-Diagnostic-Services-UDS-overview-0x22-0x19.png)
+![alt text](https://www.csselectronics.com/cdn/shop/files/UDS-standard-data-identifiers-did-VIN-0x22.png)
