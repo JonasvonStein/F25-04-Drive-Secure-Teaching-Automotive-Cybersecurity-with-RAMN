@@ -9,6 +9,7 @@ Extract python file to desired location
 Run in cmd terminal:
 
 .. code-block:: console
+
   sudo apt update
   sudo apt install -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev \libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev 
   wget \libbz2-dev
@@ -17,14 +18,17 @@ Run in cmd terminal:
   cd Python-3.8.10
 
 .. code-block:: console
+
   ## Prepare build
   ./configure --enable-optimizations
 
 .. code-block:: console
+
   ## compile source code
   make -j$(nproc)
 
 .. code-block:: console
+
   ## install python without changing system python
   Sudo make altinstall
 
@@ -40,6 +44,7 @@ Extract to desired location, I will extract to /Documents
 Running CARLA server
 
 .. code-block:: console
+
   ./CarlaUE4.sh
   **For less GPU demand***
   ./CarlaUE4.sh -windowed - quality-level=Low -ResX=800 -ResY=600
@@ -47,6 +52,7 @@ Running CARLA server
 Virtual environment for python scripts:
 
 .. code-block:: console
+
   python3.7 -m venv carla-env
   source carla-env/bin/activate
 
