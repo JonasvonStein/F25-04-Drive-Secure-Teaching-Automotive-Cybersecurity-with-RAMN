@@ -148,4 +148,33 @@ Inside of the RAMN/scripts/utils we will find RAMN_Utils.py which we will need t
    :align: center
    :scale: 100%
 
+CAN_NAME = *name of whatever you name your network when you run:
 
+.. code-block:: console
+
+    $ sudo slcand -o -c /dev/ttyACM0 && sudo ip link set up can0
+
+CAN_TYPE = “socketcan” - this will stay the same no matter what as long as you are using the RAMN system. 
+
+If this does not work in later steps, you can change the values directly where they are referenced,
+this is most likely the case as we could not get the variables to be referenced correctly.
+In other words, you will most likely have to modify them in RAMN/scripts/carla/RAMN_Controller_CAN.py:
+
+.. image:: /img/ECU_Manipulation_Controller_CAN.png
+   :align: center
+   :scale: 100%
+
+In line 17, can.interface.Bus(“can0”, bustype = “socketcan”).
+
+Now you will want to start your carla server, then in a new terminal navigate to RAMN/scripts/carla and run:
+
+.. code-block:: console
+
+    $ python3.7 RAMN_CARLA_Manual.py – CAN
+
+This will allow you to interact with CARLA using the physical controls of the RAMN system as well as
+manipulate the ECUs in a terminal window. You will do everything the same as the beginner and intermediate
+tutorials, except you will now have a visual output.
+
+**Utilize what you know to develop a script or attack on other ECUs and control a certain aspect of the vehicle.
+This will show you how vulnerable automobiles can be and why we need to find ways to protect them.**
