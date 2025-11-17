@@ -32,6 +32,15 @@ request message to utilize a specific UDS service.
 This is most easily done on a Linux system, you may use a virtual or local machine with can-utils installed.
 We will be using the commands from section 2.0, specifically sending UDS commands to retrieve the flag. 
 
+.. image:: /img/Capture_The_Flag_UDS_Service_Identifiers.png
+   :align: center
+   :scale: 100%
+
+.. image:: /img/Capture_The_Flag_UDS_Standardized_Data_Identifiers.png
+   :align: center
+   :scale: 100%
+
+
 Challenge Part 1
 ^^^^^^^^^^^^^^^^
 
@@ -51,6 +60,7 @@ Challenge Part 2
 ^^^^^^^^^^^^^^^^
 
 Background: 
+
 Extended Linear Address (ELA) records contain the upper 16 bits of a data address. The format of an ELA record is: 
 02000004FFFFFC
 Where:
@@ -75,6 +85,7 @@ The absolute-memory address of a data record is obtained by adding the address f
 The ELA used in this project is 020000040801F1. 
 
 Challenge: 
+
 Somewhere in the flash is a printable flag with the format FLAG{...}. Use the ST-Link debugger, the debug board, and STM32Cube Programmer to identify
 the memory location of the flag. The flag is stored on ECU B in the ECU’s .hex file. Find the flag on the .hex file and submit the flash address where
 the flag begins. Submit the flag in the format 0x0801XXXX. 
