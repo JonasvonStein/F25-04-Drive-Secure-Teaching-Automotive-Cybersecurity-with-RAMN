@@ -117,6 +117,47 @@ control operates from. Utilize this table to edit your commands:
 Tutorial (Intermediate)
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+REQUIREMENTS:
+
+- RAMN System
+- RAMN Repository
+- Python (3.7 recommended)
+
+Now, these values worked on the RAMN system, but on a real automobile, this would not work.
+These individual frames that are sent are not complete frames, a CAN frame is made up of 16 bytes,
+here we only sent 2 or 4 bytes of information, which wouldn’t be enough. They will not be recognized
+because they do not match the clock of the RAMN system either. In order to truly spoof these values
+we would need to utilize packet crafting, and some scripting using python.
+
+When using the candump command we can find out what values are being changed by interacting with the
+physical component and observe the ID of the physical component as well as which bytes are changing due
+to the user input. Most likely the first 4 bytes will be controlled by the analog to digital converter,
+and will be the values that you will change for spoofing. We will then want to craft a packet with the
+bytes we are spoofing, like the 0x0FFF hex value for 100% right on the steering, as well as the tail
+bytes which enable communication across the CAN bus. 
+
+The tail bytes seem to be somewhat arbitrary, but they must be present for the CAN frame to be valid,
+I copied these bytes from an arbitrary steering (ID 0x062) frame:
+
+.. image:: /img/ECU_Manipulation_Tail_Bytes.png
+   :align: center
+   :scale: 100%
+
+Then you can craft the packet where the variable “val” will be whatever value you want to send,
+and then craft the command to be sent to the command line.
+
+.. image:: /img/ECU_Manipulation_Data_Bytes.png
+   :align: center
+   :scale: 100%
+
+You can do all of this via the command line, but it is good to practice packet crafting utilizing
+python as it can be used more in the future.
+
+Try to write a python script to sweep the values of steering from left to right, if you need help
+you can see ecu_control.py in our github, this will work to spoof the value of the steering, and
+sweep back and forth, if you do not want the answer and want to figure it out on your own, do not
+look at the solution. (Hint: the code snippets above are from ecu_control.py).
+
 
 Tutorial (Advanced, show output using CARLA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
