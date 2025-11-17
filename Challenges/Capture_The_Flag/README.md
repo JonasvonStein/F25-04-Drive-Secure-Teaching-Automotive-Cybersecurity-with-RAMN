@@ -1,7 +1,7 @@
 # Capture the Flag Challenge
 
 ## Getting Started
-Replace the existing 'ramn_uds.c' file with the file included in the GitHub. The location should be ...\RAMN-main\firmware\RAMNV1\Core\Src. DO NOT open the file in the GitHub because it will immediately reveal the flag. Refer to the F25-04 website for further instructions
+Replace the existing 'ramn_uds.c' file with the file included in the GitHub. The location should be ...\RAMN-main\firmware\RAMNV1\Core\Src. DO NOT open the file in the GitHub because it will immediately reveal the flag. Refer to the F25-04 website for further instructions. 
 ## Learning Objectives
 - Understand UDS / ISO-TP diagnostics
 - Use can-utils to query an ECU
@@ -17,3 +17,5 @@ This is most easily done on a Linux system, you may use a virtual or local machi
 
 ![alt text](https://www.csselectronics.com/cdn/shop/files/Unified-Diagnostic-Services-UDS-overview-0x22-0x19.png)
 ![alt text](https://www.csselectronics.com/cdn/shop/files/UDS-standard-data-identifiers-did-VIN-0x22.png)
+
+## Part 1: Retrieve the Flag 
