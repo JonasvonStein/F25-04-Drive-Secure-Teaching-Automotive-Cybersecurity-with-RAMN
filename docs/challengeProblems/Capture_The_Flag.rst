@@ -53,18 +53,21 @@ Challenge Part 2
 Background: 
 Extended Linear Address (ELA) records contain the upper 16 bits of a data address. The format of an ELA record is: 
 02000004FFFFFC
-Where: 
-02 is the number of data bytes in the record
-0000 is the address field (always 0000 for an ELA record)
-04 is the record type 
-FFFF is the upper 16 bits of the address
-FC is the checksum of the record
+Where:
+
+- 02 is the number of data bytes in the record
+- 0000 is the address field (always 0000 for an ELA record)
+- 04 is the record type 
+- FFFF is the upper 16 bits of the address
+- FC is the checksum of the record
+
 An Intel HEX data record is formatted like:
 : LL AAAA TT [Data…] CC, where
-LL indicates the byte count
-AAAA indicates the 16 bit-offset
-TT indicates the record type
-CC is the checksum
+
+- LL indicates the byte count
+- AAAA indicates the 16 bit-offset
+- TT indicates the record type
+- CC is the checksum
 
 When an ELA is read, the ELA address stored in the data field is saved and is applied to subsequent records read from the Intel HEX file [1].
 The absolute-memory address of a data record is obtained by adding the address field in the record to the shifted address data from the ELA record [1]. 
