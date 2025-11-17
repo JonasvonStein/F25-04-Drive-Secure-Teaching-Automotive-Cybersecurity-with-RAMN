@@ -3,9 +3,10 @@
 
 This folder contains the scripting solution to the intermediate level of the ECU manipulation challenge. The challenge is detailed below:
 Learning Objectives:
-Understand the vulnerabilities of an automotive ECU
-Utilize command line tools to exploit vulnerabilities
-Packet Crafting (CAN Frame crafting)
+
+	Understand the vulnerabilities of an automotive ECU
+	Utilize command line tools to exploit vulnerabilities
+	Packet Crafting (CAN Frame crafting)
 
 Overview:
 	This is most easily done on a Linux system, you may use a virtual or local machine with can-utils installed. To have this interact with CARLA for a visual output, you will need to follow the instructions below the tutorial.
