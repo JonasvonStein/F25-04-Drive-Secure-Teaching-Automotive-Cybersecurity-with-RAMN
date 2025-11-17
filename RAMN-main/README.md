@@ -18,7 +18,7 @@ We have setup 're-orders' at PCBWay.
 Please [see the docs 'PCB Ordering' for more details](https://ramn.readthedocs.io/page/hardware/Fabrication/ordering.html).
 You can also request a prototype from any PCB manufacturer, using the Gerber files and BOM in the Hardware folder. 
 
-Feel free to [contact us](mailto:camille.gay@toyota.global) if you need assistance to fabricate or sell RAMN boards.
+Feel free to [contact RAMN Creator at Toyota](mailto:camille.gay@toyota.global) if you need assistance to fabricate or sell RAMN boards.
 
 Because component availability is subject to change, we are periodically updating the hardware.
 The original RAMN hardware data is available in misc/RAMN_V1_reference_PCB.zip, and is recommended for academic purposes.
@@ -42,7 +42,7 @@ Contains firmware source code for RAMN's ECUs.
 Please check the LICENSE.md file for more details.
 
 ## Contact
-Feel free to [contact us](mailto:camille.gay@toyota.global) if you have questions.
+Feel free to [contact RAMN creator at Toyota](mailto:camille.gay@toyota.global) if you have questions.
 Videos available [here](https://twitter.com/ramn_auto).
 
 Copyright (c) 2025 TOYOTA MOTOR CORPORATION. ALL RIGHTS RESERVED.
