@@ -1,8 +1,5 @@
 # Capture the Flag Challenge
 
-A brief description of what this project does and who it's for
-
-
 ## Getting Started
 Replace the existing 'ramn_uds.c' file with the file included in the GitHub. The location should be ...\RAMN-main\firmware\RAMNV1\Core\Src. DO NOT open the file in the GitHub because it will immediately reveal the flag. Refer to the F25-04 website for further instructions
 ## Learning Objectives
