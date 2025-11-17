@@ -17,3 +17,5 @@ UDS exploitation refers to cyberattacks that target the diagnostic services in a
 When an attacker (you in this case) wants to utilize a specific service, the UDS request message should contain the UDS Service Identifier (SID) in the data payload [2]. SIDs are required in the UDS request message to utilize a specific UDS service. 
 
 This is most easily done on a Linux system, you may use a virtual or local machine with can-utils installed. We will be using the commands from section 2.0, specifically sending UDS commands to retrieve the flag. 
+
+![alt text](https://www.csselectronics.com/cdn/shop/files/Unified-Diagnostic-Services-UDS-overview-0x22-0x19.png)
