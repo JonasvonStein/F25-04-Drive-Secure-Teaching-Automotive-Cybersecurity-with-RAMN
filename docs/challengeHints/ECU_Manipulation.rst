@@ -124,7 +124,7 @@ Tutorial (Advanced, show output using CARLA)
 REQUIREMENTS:
 
 - Ubuntu 22.04 (local boot)
-- Can-utils, pygame, numpy
+    - Can-utils, pygame, numpy
 - RAMN repository
 - CARLA installation
 
@@ -137,7 +137,7 @@ we have tried virtual machines, and utilizing X servers but these are either unr
 computing power, or lack the necessary software dependencies to run CARLA. 
 	
 The easiest way to get an Ubuntu dual boot is to download Ubuntu onto a flash drive,
-and create a bootable USB using rufus. There are many tutorials on this so I will not go in depth.
+and create a bootable USB using `rufus <https://rufus.ie/>`_. There are many tutorials on this so I will not go in depth.
 We recommend giving Ubuntu at least 100 GB to have ample room for your code and CARLA simulation.
 
 Once you have Ubuntu running, you will need to clone the RAMN repository as well as download and install CARLA. 
