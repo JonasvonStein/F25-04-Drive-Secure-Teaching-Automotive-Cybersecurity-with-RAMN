@@ -1,9 +1,9 @@
 .. _challengeHints:
 
-Cyber Security Challenge Hints
+Cybersecurity Challenge Hints
 =============================
 
-This section details the cyber security challenge hints.
+This section details the cybersecurity challenge hints.
 
 .. toctree::
    :maxdepth: 3

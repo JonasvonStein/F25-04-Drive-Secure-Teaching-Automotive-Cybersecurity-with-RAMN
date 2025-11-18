@@ -3,7 +3,7 @@
 Software Installation Guides
 ============================
 
-This section details how do download the necessary software.
+This section details how to download the necessary software.
 
 .. toctree::
    :maxdepth: 3

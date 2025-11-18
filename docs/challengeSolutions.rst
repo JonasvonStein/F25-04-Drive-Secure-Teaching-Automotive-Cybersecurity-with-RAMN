@@ -1,9 +1,9 @@
 .. _challengeSolutions:
 
-Cyber Security Challenge Solutions
+Cybersecurity Challenge Solutions
 =================================
 
-This section details the cyber security challenge solutions.
+This section details the cybersecurity challenge solutions.
 
 .. toctree::
    :maxdepth: 3
