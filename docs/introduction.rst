@@ -27,7 +27,7 @@ is important for the cybersecurity challenges we made and provide extra details 
 
 Getting Started with the Cybersecurity Challenges
 -----------------------
-We have made three challenges. To know what you need to install go to the :doc:`softwareInstallation` section. The challenges are beginer friendly and you can go to the :doc:`challengeHints` section for extra help.
+We have made three challenges. To know what you need to install, go to the :doc:`softwareInstallation` section. The challenges are beginner-friendly, and you can go to the :doc:`challengeHints` section for extra help.
 
 :doc:`challengeProblems/Brute_Force_Scripting`
 
