@@ -59,7 +59,7 @@ Environment:
 Challenge Part 2
 ^^^^^^^^^^^^^^^^
 
-**Background: **
+**Background:**
 
 Extended Linear Address (ELA) records contain the upper 16 bits of a data address. The format of an ELA record is: 
 02000004FFFFFC
