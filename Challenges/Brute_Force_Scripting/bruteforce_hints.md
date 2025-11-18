@@ -6,5 +6,6 @@
 
 # Brute Force In-Depth Hints 
 1. For 1, the initial values we had were Port, Baud, LE (bytes sent at the end of the command (We use Windows and my LE = b"\r\n")(For macOS/Linux it should be b"\n")), and Delay
-2. For 4, We first tried some passwords on TeraTerm with the RAMN to see what it outputs to help with making the script
+2. For 4, we first tried some passwords on TeraTerm with the RAMN to see what it outputs to help with making the script
+
 
