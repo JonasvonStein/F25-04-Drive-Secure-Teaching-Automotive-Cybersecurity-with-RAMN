@@ -69,10 +69,10 @@ You can now control the lighting switch with the following commands, without ECU
     $ cansend can0 150#03
     $ cansend can0 150#04
 
-.. image:: \img\CAN_Dump_Demo.png
+.. image:: /img/CAN_Dump_Demo.png
    :align: center
 
-.. image:: \img\UDS_Command_Demo.png
+.. image:: /img/UDS_Command_Demo.png
    :align: center
 
 
