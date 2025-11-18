@@ -9,7 +9,7 @@ Purpose and Who We Are
 Our customer, the Virginia Tech Transportation Institute, wants to utilize the Resistant Automotive Miniature Network (RAMN) to help develop
 cybersecurity practices and facilitate a learning environment for future cybersecurity and automotive engineering students.
 The RAMN serves as an educational tool to highlight the vulnerabilities of automotive Electronic Control Units (ECUs).
-This document provides a background on the RAMN board, an extensive overview of how to set up the required environment to interact with the board, and several cybersecurity challenges.  
+This website provides a background on the RAMN board, an extensive overview of how to set up the required environment to interact with the board, and several cybersecurity challenges.  
 
 What is RAMN?
 -------------
@@ -18,10 +18,10 @@ RAMN (Resistant Automotive Miniature Network) is a credit-card-sized ECU testbed
 Check out the official `What is RAMN? <https://ramn.readthedocs.io/en/latest/general.html>`_ page for more info.
 
 
-What is on this webpage?
+What is on this website?
 ------------------------
 
-This webpage will show you what on the `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
+This website will show you what on the `RAMN Read The Docs <https://ramn.readthedocs.io/en/latest/>`_
 is important for the cybersecurity challenges we made and provide extra details on things like how to use the RAMN.
 
 
