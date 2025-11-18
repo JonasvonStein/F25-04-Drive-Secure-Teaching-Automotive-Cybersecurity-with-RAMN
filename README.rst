@@ -15,3 +15,6 @@ Visit our Website `here <https://f25-04-drive-secure-teaching-automotive-cyberse
 .. image:: Images/Team_Picture.png
        :alt: F25-04 Team Photo
        :align: center
+
+
+Left to Right: William Min, Colton Smith, Jonas von Stein, Brooks O'Hanlan
