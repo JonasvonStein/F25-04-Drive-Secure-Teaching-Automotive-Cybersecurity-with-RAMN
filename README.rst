@@ -10,3 +10,10 @@ To access the hints to each challenge access `hints <https://github.com/Jonasvon
 To access our other documentation about CAN, UDS, RAMN, CARLA click `here <https://github.com/JonasvonStein/F25-04-Drive-Secure-Teaching-Automotive-Cybersecurity-with-RAMN/tree/main/Documentation>`_
 
 Visit our Website `here <https://f25-04-drive-secure-teaching-automotive-cybersecurity-with-ramn.readthedocs.io/en/latest/index.html>`_
+
+
+.. image:: Images/DSC_0019.NEF
+       :alt: F25-04 Team Photo
+       :width: 200px
+       :height: 150px
+       :align: center
