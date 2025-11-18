@@ -19,7 +19,17 @@ The bytes that follow the reply after the UDS header in Terminal 2 are the ASCII
 - Terminal 2: 
 - kali㉿kali)-[~]
 - └─$ isotprecv -s 7e1 -d 7e9 -l slcan0            
-- 62 F1 87 52 41 4D 4E 20 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 69 65 73 7D 
+- 62 F1 87 52 41 4D 4E 20 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 69 65 73 7D
+
+Part 2
+^^^^^^
+
+Connect the ST-Link and debug board to ECU B, with the connector facing away from the middle of the board.
+Note: The RAMN board must be connected to power when using the debugger. See ‘Using STM32Cube Programmer’
+under “Firmware Flashing" for information on how to connect the board to the board to the debugger firmware.
+
+
+After the board is successfully connected to the STM32Cube Programmer, the debugger will display the information below.
 
  
 
