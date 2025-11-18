@@ -18,7 +18,7 @@ The purpose of brute forcing is to test many password combinations at a very hig
 Brute forcing is effective against weak passwords or poorly secured systems.
 Brute forcing allows hackers to gain unauthorized access to systems or data.
 
-This way of hacking has been used to hack into automotive vehicles by rapidly putting in a 4-digit passcode and by
+This way of hacking has been used to hack into automotive vehicles by rapidly putting in a 4-digit passcode, and by
 rapidly testing rolling codes used by keyless entry systems.
 We will be using this technique to find a flag in the RAMN by testing every password combination possible. 
 
