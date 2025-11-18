@@ -14,6 +14,4 @@ Visit our Website `here <https://f25-04-drive-secure-teaching-automotive-cyberse
 
 .. image:: Images/Team Picture.png
        :alt: F25-04 Team Photo
-       :width: 200px
-       :height: 150px
        :align: center
