@@ -8,5 +8,5 @@ This section details the hints for the capture the flag challenge.
 .. toctree::
    :maxdepth: 3
 
-  Capture_The_Flag_hints/Part1
-  Capture_The_Flag_hints/Part2
+  Capture_The_Flag_Hints/Part1
+  Capture_The_Flag_Hints/Part2
