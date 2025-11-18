@@ -12,7 +12,7 @@ To access our other documentation about CAN, UDS, RAMN, CARLA click `here <https
 Visit our Website `here <https://f25-04-drive-secure-teaching-automotive-cybersecurity-with-ramn.readthedocs.io/en/latest/index.html>`_
 
 
-.. image:: Images/DSC_0019.NEF
+.. image:: Images/Team Picture.png
        :alt: F25-04 Team Photo
        :width: 200px
        :height: 150px
