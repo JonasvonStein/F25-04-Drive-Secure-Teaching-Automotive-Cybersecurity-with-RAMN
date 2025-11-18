@@ -3,7 +3,8 @@
 ECU Manipulation Challenge Solution
 ===================================
 
-This page contains the ECU manipulation challenge solution.
+.. image:: /img/CARLA_With_RAMN.gif
+   :align: center
 
 
 
