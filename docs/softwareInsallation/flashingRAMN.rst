@@ -8,11 +8,13 @@ To flash the RAMN, follow the `Flashing Scripts Section <https://ramn.readthedoc
 Firmware Flashing Troubleshooting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When flashing the RAMN board, we have run into the issue that sometimes it may exit bootloader mode and enter DFU mode.
-We are not sure what causes this, but we had the trouble of the board not being recognized by our computers and not
-showing up in the COM ports of our devices. Another telltale sign of this is that the LCD screen will be powered
-on but will remain black and not output anything, no matter what inputs are made. Follow the steps below to reclaim
-your RAMN board from the depths of hell.
+When flashing the RAMN board, we have run into an issue, where sometimes the board will exit bootloader
+mode and enter DFU mode. We are not sure why this happens, but the problem is that the board is not
+recognized by our computers, and the device did not show up in the COM ports of our Device Manager.
+Another telltale sign of this problem is that the LCD screen will be powered on but will remain black.
+Follow the steps below to reclaim your RAMN board from any mistakes that were made.
+We highly recommend using the debugger to reflash all four ECUs anytime after you initially flash the
+board with the .bat files.  
 
 1. Insert the debugger expansion into ECU A pin header, overhanging the edge of the board (not over the microcontroller)
 2. Plug the ST-LINK/V2 JTAG Debugger into the Debugger expansion board. 
