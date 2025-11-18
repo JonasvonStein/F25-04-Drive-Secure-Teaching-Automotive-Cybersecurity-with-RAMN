@@ -34,3 +34,13 @@ We have made three challenges. To know what you need to install go to the :doc:`
 :doc:`challengeProblems/Capture_The_Flag`
 
 :doc:`challengeProblems/ECU_Manipulation`
+
+Key Terminals
+-------------
+
+- RAMN - Resistant Automotive Miniature Network
+- ECUs - Electronic Control Units
+- CAN/CAN-FD - Controller Area Network with Flexible Data-Rate
+- UDS - Unified Diagnostic Services
+- USB - Universal Serial Bus
+- CTF - Capture the Flag
