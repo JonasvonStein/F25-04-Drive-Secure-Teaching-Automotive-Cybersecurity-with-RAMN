@@ -1,7 +1,8 @@
 Connect the ST-Link and debug board to ECU B, with the connector facing away from the middle of the board. Note: The RAMN board must be connected to power when using the debugger. See ‘Using STM32Cube Programmer’ under “Firmware Flashing" for information on how to connect the board to the board to the debugger firmware. 
 
-.. image:: ../../Images/sol2_1.jpg
-   :alt: Solution Image
+.. image:: ../../../Images/sol2_1.jpg
+   :alt: sol2_1
+   :width: 600px
 
 After the board is successfully connected to the STM32Cube Programmer, the debugger will display the information below.
 
