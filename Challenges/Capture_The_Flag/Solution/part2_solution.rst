@@ -34,4 +34,4 @@ The first six values of the line with the flag are ‘209C40’. From the review
    :alt: sol2_1
    :width: 600px
 
-This occurs because the full line of data is ‘37 BE 0B B4 A1 8E 0C C3 1B DF 05 5A 8D EF 02 2D 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 2B’. Each pair of hex digits is equivalent to one byte. As shown above, there are 16 bytes before the first line of the flag begins, which means that the flag starts 16 bytes into the data field. Therefore, there is an offset of 0x10. Add the 0x10 offset to the memory address of the start of the line, and ** the flash memory address is 0x08019C50. **
+This occurs because the full line of data is ‘37 BE 0B B4 A1 8E 0C C3 1B DF 05 5A 8D EF 02 2D 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 2B’. Each pair of hex digits is equivalent to one byte. As shown above, there are 16 bytes before the first line of the flag begins, which means that the flag starts 16 bytes into the data field. Therefore, there is an offset of 0x10. Add the 0x10 offset to the memory address of the start of the line, and **the flash memory address is 0x08019C50.**
