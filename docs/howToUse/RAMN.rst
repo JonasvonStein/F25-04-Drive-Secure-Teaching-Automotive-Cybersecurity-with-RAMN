@@ -24,7 +24,7 @@ Connect your board to your computer using a USB cable. On Windows, it should app
 (or Composite Device) and be attributed a COM port number (e.g., COM1). If that is not the case, you may need
 to install STM32 Virtual COM Port Drivers.
 
-Once the board is recognized by windows, you must forward the USB port to Virtual Box.
+Once the board is recognized by Windows, you must forward the USB port to VirtualBox.
 Select Devices > USB and click Toyota Motor Corporation RAMN. You can open Devices > USB > USB Settings…,
 then click the + icon to add RAMN so that Virtual Box will always automatically forward the USB port.
 
@@ -33,7 +33,7 @@ On Linux, RAMN should appear at the end of the dmesg command, and be attributed 
 Starting slcand
 ^^^^^^^^^^^^^^^
 
-By default, RAMN acts as an slcan adapter. You can use the slcand command to start RAMN as a native Linux CAN interface.
+By default, RAMN acts as an SLCAN adapter. You can use the slcand command to start RAMN as a native Linux CAN interface.
 
 .. code-block:: console
 
