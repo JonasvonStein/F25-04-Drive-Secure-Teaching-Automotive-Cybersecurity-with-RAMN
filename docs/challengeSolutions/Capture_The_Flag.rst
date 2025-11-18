@@ -17,9 +17,9 @@ The bytes that follow the reply after the UDS header in Terminal 2 are the ASCII
 - Terminal 1: 
    - echo "22 F1 87" | isotpsend -s 7e1 -d 7e9 slcan0
 - Terminal 2: 
-- kali㉿kali)-[~]
-- └─$ isotprecv -s 7e1 -d 7e9 -l slcan0            
-- 62 F1 87 52 41 4D 4E 20 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 69 65 73 7D
+   - kali㉿kali)-[~]
+   - └─$ isotprecv -s 7e1 -d 7e9 -l slcan0            
+   - 62 F1 87 52 41 4D 4E 20 46 4C 41 47 7B 6C 65 74 73 5F 67 6F 5F 68 6F 6B 69 65 73 7D
 
 Part 2
 ^^^^^^
