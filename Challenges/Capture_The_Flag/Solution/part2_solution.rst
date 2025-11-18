@@ -1,7 +1,14 @@
 Connect the ST-Link and debug board to ECU B, with the connector facing away from the middle of the board. Note: The RAMN board must be connected to power when using the debugger. See ‘Using STM32Cube Programmer’ under “Firmware Flashing" for information on how to connect the board to the board to the debugger firmware. 
-.. image:: https://keep.google.com/u/1/media/v2/12Q-kiDQO4ftE--K-IIRafzWxGxeCyt0cgWjujlY6PFViy9hN-SaDom3fzcZD4qY/1C5-CJlkylZff2NoCeTQ_ElM5y_AuLbNzLecnDkMeSwFsze0u7XatEIJ6TZPL4Fs?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp
+
+.. image:: ../../../Images/sol2_1.jpg
+   :alt: sol2_1
+   :width: 600px
 
 After the board is successfully connected to the STM32Cube Programmer, the debugger will display the information below.
+
+.. image:: ../../../Images/sol2_2.png
+   :alt: sol2_1
+   :width: 600px
 
 From the ‘Memory & File editing’ tab, select the ‘Read’ dropdown in the top right corner. Select ‘Read all’ and wait for the debugger to read all of the memory addresses. 
 
