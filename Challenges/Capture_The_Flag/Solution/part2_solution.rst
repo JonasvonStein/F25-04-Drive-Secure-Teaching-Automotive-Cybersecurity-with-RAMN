@@ -6,6 +6,10 @@ Connect the ST-Link and debug board to ECU B, with the connector facing away fro
 
 After the board is successfully connected to the STM32Cube Programmer, the debugger will display the information below.
 
+.. image:: ../../../Images/sol2_2.png
+   :alt: sol2_1
+   :width: 600px
+
 From the ‘Memory & File editing’ tab, select the ‘Read’ dropdown in the top right corner. Select ‘Read all’ and wait for the debugger to read all of the memory addresses. 
 
 After reading all of the flash memory, save the data using ‘Save As …’ and make the file extension a .hex file. 
