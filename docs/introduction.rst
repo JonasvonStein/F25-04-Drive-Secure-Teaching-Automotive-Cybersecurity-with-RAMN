@@ -35,8 +35,8 @@ We have made three challenges. To know what you need to install, go to the :doc:
 
 :doc:`challengeProblems/ECU_Manipulation`
 
-Key Terminals
--------------
+Key Terms
+---------
 
 - RAMN - Resistant Automotive Miniature Network
 - ECUs - Electronic Control Units
